@@ -1,1 +1,1 @@
-eyzalts: node .
+eyzalts: node index.js
